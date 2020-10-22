@@ -1,0 +1,1 @@
+CREATE TYPE paises AS ENUM ('Argentina', 'Austria', 'Bélgica', 'Belice', 'Brasil', 'Chile', 'China', 'Costa Rica');
